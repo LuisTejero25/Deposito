@@ -14,7 +14,7 @@ public class Main {
     }
     /**
      * Método que realiza operaciones en una cuenta bancaria.
-     * @param cantidad La cantidad inicial en la cuenta.
+     * @param cantidad La cantidad inicial que hay en la cuenta.
      */
 	private static void operativa_cuenta(float cantidad) {
 		CCuenta cuenta1;
